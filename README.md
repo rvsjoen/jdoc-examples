@@ -1,4 +1,4 @@
-com_helloworld
+Joomla Developer Tutorials Project
 ==============
 
-This repository contains the code for the MVC tutorials found on the Joomla! Documentation Wiki
+This repository contains example code for extension developers
